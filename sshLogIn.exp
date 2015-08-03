@@ -1,0 +1,7 @@
+#!/usr/bin/expect
+
+spawn ssh root@yourserver
+expect "yourpassword"
+send "yourpassword\r"
+interact
+
