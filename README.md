@@ -1,5 +1,7 @@
-#### Requirements
+#### This will be more helpful if you a have strong password
+
+###### Requirements
      yum install expect
 
-#### How to run
+###### How to run
      expect sshLogIn.exp
